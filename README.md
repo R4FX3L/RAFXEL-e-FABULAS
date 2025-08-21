@@ -9,3 +9,4 @@ git pull
  git push -- all
 git branch
 git fetch
+git merge branch que vai ser alocada
