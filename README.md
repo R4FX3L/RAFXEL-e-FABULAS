@@ -7,3 +7,5 @@ git push -u origin breanch
 git pull
  git checkout -b
  git push -- all
+git branch
+git fetch
